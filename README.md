@@ -1,1 +1,1 @@
-Make calls to PokeAPI.
+Vanilla JS that makes calls to PokeAPI.
